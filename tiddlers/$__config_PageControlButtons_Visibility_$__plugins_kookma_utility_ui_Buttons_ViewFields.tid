@@ -1,7 +1,7 @@
 created: 20230911054308905
 creator: 真诚
-modified: 20230911054308906
+modified: 20231205034237343
 modifier: 真诚
 title: $:/config/PageControlButtons/Visibility/$:/plugins/kookma/utility/ui/Buttons/ViewFields
 
-hide
+show
