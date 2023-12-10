@@ -1,7 +1,7 @@
 created: 20230928052448653
 creator: 真诚
-modified: 20230928052507938
+modified: 20231210220539699
 modifier: 真诚
 title: $:/config/ViewToolbarButtons/Visibility/$:/plugins/kookma/favorites/ui/buttons/add-remove
 
-hide
+show
